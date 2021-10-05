@@ -1,16 +1,4 @@
 Olá a Todos
-
-<!--
-**ForceFinal/ForceFinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on tela inicial instagram
-- 🌱 I’m currently learning CSS+HTML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Esse Projeto/This Project
+é um dos requisitos pela DIO, para concluir o bootcamp HTML/CSS
+estou em aprendizado ainda, se possuir algum erro, estou disposto a ouvir/ver críticas.
